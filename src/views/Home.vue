@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <h1>Title</h1>
+    <i class="bi-alarm"></i>
   </div>
 </template>
 
@@ -11,7 +12,7 @@
 export default {
   name: "Home",
   components: {
-    //    HelloWorld
+    //       HelloWorld
   }
 };
 </script>
