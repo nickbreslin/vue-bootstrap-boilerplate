@@ -1,4 +1,3 @@
 module.exports = {
-  publicPath:
-    process.env.NODE_ENV === "production" ? "/vue-bootstrap-boilerplate/" : "/"
+  publicPath: process.env.NODE_ENV === "production" ? "/CHANGE_ME/" : "/"
 };
